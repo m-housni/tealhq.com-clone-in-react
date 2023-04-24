@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tealhq.com-clone-in-react/static/css/main.86fb5258.css",
+    "main.js": "/tealhq.com-clone-in-react/static/js/main.5b7fe9e5.js",
+    "index.html": "/tealhq.com-clone-in-react/index.html",
+    "main.86fb5258.css.map": "/tealhq.com-clone-in-react/static/css/main.86fb5258.css.map",
+    "main.5b7fe9e5.js.map": "/tealhq.com-clone-in-react/static/js/main.5b7fe9e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fb5258.css",
+    "static/js/main.5b7fe9e5.js"
+  ]
+}
