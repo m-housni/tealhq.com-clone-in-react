@@ -13,4 +13,4 @@ This is a simple tealhq.com landing page clone.
     - HeroImage
 
 ## Demo
-=> [https://m-housni.github.io/google-landing-page-in-react/](https://m-housni.github.io/tealhq.com-clone-in-react/)
+=> [https://m-housni.github.io/tealhq.com-clone-in-react//](https://m-housni.github.io/tealhq.com-clone-in-react//)
